@@ -1,0 +1,92 @@
+	<footer class="footer bg-dark">
+
+			<!-- Footer Top Area -->
+			<div class="footer-toparea">
+				<div class="container">
+					<div class="row">
+
+<!--
+						<div class="col-lg-3 col-12">
+							<div class="footer-widget widget-info">
+								<h5 class="footer-widget-title">Contact Info</h5>
+								<p>We are a team of designers & developers that create high quality Magento, Prestashop, Opencart.</p>
+								<ul>
+									<li><i class="ion ion-ios-pin"></i> The Barn, Ullenhall, Henley in Arden B578 5CC, England</li>
+									<li><i class="ion ion-ios-call"></i> Call us: +88.2345.6789</li>
+									<li><i class="ion ion-ios-print"></i> Fax: +(1234) 408 1234</li>
+									<li><i class="ion ion-ios-mail"></i> Email us: <a href="#">info@example.com</a></li>
+								</ul>
+							</div>
+						</div>
+-->
+
+						<div class="col-lg-2 col-md-4">
+							<div class="footer-widget widget-links">
+								<h5 class="footer-widget-title">Products</h5>
+								<ul>
+									<li><a href="#">Prices drop</a></li>
+									<li><a href="#">New products</a></li>
+									<li><a href="#">Best sales</a></li>
+									<li><a href="#">Contact us</a></li>
+									<li><a href="#">Login</a></li>
+									<li><a href="#">My account</a></li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-lg-2 col-md-4">
+							<div class="footer-widget widget-links">
+								<h5 class="footer-widget-title">Become A Partner</h5>
+								<ul>
+									<li><a href="#"></a></li>
+									<li><a href="#">Sell</a></li>
+									
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-lg-2 col-md-4">
+							<div class="footer-widget widget-links">
+								<h5 class="footer-widget-title">Your Account</h5>
+								<ul>
+									<li><a href="#">Personal info</a></li>
+									<li><a href="#">Orders</a></li>
+									<li><a href="#">Credit slips</a></li>
+									<li><a href="#">Addresses</a></li>
+									<li><a href="#">My wishlists</a></li>
+								</ul>
+							</div>
+						</div>
+
+<!--
+						<div class="col-lg-3 col-12">
+							<div class="footer-widget widget-customerservice">
+								<div class="info">
+									<h5 class="footer-widget-title">CUSTOMER SERVICE</h5>
+									<h5>SEND AN EMAIL</h5>
+									<h5>HOTLINE: : <a href="#">+88.2345.6789</a></h5>
+									<h6>8:00AM–5.30PM AEST MON–FRI</h6>
+								</div>
+								<div class="payment">
+									<h6>SECURE PAYMENT VIA</h6>
+									<img src="images/icons/payment.png" alt="footer payment">
+								</div>
+							</div>
+						</div>
+-->
+					</div>
+				</div>
+			</div>
+			<!--// Footer Top Area -->
+
+			<!-- Footer Bottom -->
+			<div class="footer-bottomarea">
+				<div class="container">
+					<div class="footer-copyright">
+						<p class="copyright">Copyright &copy; <a href="#"><span style="color: orangered">FES</span><span style="color:white">T</span>IN<span style="color:white">D</span><span style="color: darkgreen">IAN</span></a> . All Rights Reserved</p>
+					</div>
+				</div>
+			</div>
+			<!--// Footer Bottom -->
+
+		</footer>
